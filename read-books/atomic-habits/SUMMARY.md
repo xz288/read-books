@@ -23,7 +23,7 @@
 
 ### Law 1: Make It Obvious (for building habits) / Make It Invisible (for breaking habits)
 
-**Cue → Craving → Response → Reward** (Habit Loop)
+**Cue - Craving - Response - Reward** (Habit Loop)
 
 **For Building Habits:**
 1. **Make it Obvious** - Identify your current habits
