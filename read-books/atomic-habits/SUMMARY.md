@@ -1,4 +1,4 @@
-�# Atomic Habits: A Detailed Summary
+﻿# Atomic Habits: A Detailed Summary
 
 ## Overview
 
@@ -143,4 +143,3 @@
 ---
 
 *Summary created by Yi*
-
